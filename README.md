@@ -103,3 +103,7 @@ cargo test
    ```bash
    ./IDS706_individual_project_2
    ```
+
+## Video Demo
+Here is the video demo to this project.
+[![Watch the video](https://img.youtube.com/vi/R-JTitp7mHg/0.jpg)](https://youtu.be/R-JTitp7mHg)
