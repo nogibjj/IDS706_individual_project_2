@@ -97,3 +97,9 @@ cargo test
 
 ## Use of LLM
    I use Copilot to help me generate code comments and debug during the writing process.
+
+## Usage of Binary Artifact
+   You can download the artfifact and using such command to run it:
+   ```bash
+   ./IDS706_individual_project_2
+   ```
